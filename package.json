@@ -91,10 +91,10 @@
     "prettier": "^3.9.6",
     "prettier-plugin-organize-imports": "^4.3.0",
     "rimraf": "^5.0.5",
-    "tsx": "^4.23.1",
+    "tsx": "^4.23.12",
     "typescript": "^5.7.3",
     "uf2": "^2.0.0",
-    "vitest": "^4.1.10"
+    "vitest": "^4.1.11"
   },
   "lint-staged": {
     "**/*.ts": [
